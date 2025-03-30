@@ -1,0 +1,1139 @@
+CONTENT
+
+   📂 paciente 1
+
+
+      📂 antes dilatar
+
+         ✅ IR_11090.jpg
+
+         ✅ IR_11091.jpg
+
+         ✅ IR_11092.jpg
+
+         ✅ IR_11094.jpg
+
+         ✅ IR_11095.jpg
+
+         ✅ IR_11096.jpg
+
+         ✅ IR_11097.jpg
+
+
+      📂 despues dilatar
+
+         ✅ IR_11145.jpg
+
+         ✅ IR_11147.jpg
+
+         ✅ IR_11148.jpg
+
+         ✅ IR_11149.jpg
+
+         ✅ IR_11150.jpg
+
+         ✅ IR_11151.jpg
+
+         ✅ IR_11152.jpg
+
+         ✅ IR_11153.jpg
+
+
+   📂 paciente 10
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11195.jpg
+
+         ✅ IR_11197.jpg
+
+         ✅ IR_11198.jpg
+
+         ✅ IR_11199.jpg
+
+         ✅ IR_11200.jpg
+
+         ✅ IR_11201.jpg
+
+         ✅ IR_11202.jpg
+
+
+   📂 paciente 11
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11227.jpg
+
+         ✅ IR_11229.jpg
+
+         ✅ IR_11230.jpg
+
+         ✅ IR_11231.jpg
+
+         ✅ IR_11234.jpg
+
+         ✅ IR_11235.jpg
+
+         ✅ IR_11236.jpg
+
+
+   📂 paciente 12
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11237.jpg
+
+         ✅ IR_11239.jpg
+
+         ✅ IR_11240.jpg
+
+         ✅ IR_11242.jpg
+
+         ✅ IR_11243.jpg
+
+         ✅ IR_11244.jpg
+
+         ✅ IR_11245.jpg
+
+
+   📂 paciente 13
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11246.jpg
+
+         ✅ IR_11248.jpg
+
+         ✅ IR_11249.jpg
+
+         ✅ IR_11250.jpg
+
+         ✅ IR_11251.jpg
+
+         ✅ IR_11252.jpg
+
+         ✅ IR_11253.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11278.jpg
+
+         ✅ IR_11280.jpg
+
+         ✅ IR_11281.jpg
+
+         ✅ IR_11282.jpg
+
+         ✅ IR_11283.jpg
+
+         ✅ IR_11284.jpg
+
+         ✅ IR_11285.jpg
+
+
+   📂 paciente 14
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11254.jpg
+
+         ✅ IR_11256.jpg
+
+         ✅ IR_11257.jpg
+
+         ✅ IR_11258.jpg
+
+         ✅ IR_11259.jpg
+
+         ✅ IR_11260.jpg
+
+         ✅ IR_11261.jpg
+
+
+   📂 paciente 15
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11262.jpg
+
+         ✅ IR_11264.jpg
+
+         ✅ IR_11265.jpg
+
+         ✅ IR_11266.jpg
+
+         ✅ IR_11267.jpg
+
+         ✅ IR_11268.jpg
+
+         ✅ IR_11269.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11286.jpg
+
+         ✅ IR_11288.jpg
+
+         ✅ IR_11289.jpg
+
+         ✅ IR_11290.jpg
+
+         ✅ IR_11291.jpg
+
+         ✅ IR_11292.jpg
+
+         ✅ IR_11293.jpg
+
+
+   📂 paciente 16
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11270.jpg
+
+         ✅ IR_11272.jpg
+
+         ✅ IR_11273.jpg
+
+         ✅ IR_11274.jpg
+
+         ✅ IR_11275.jpg
+
+         ✅ IR_11276.jpg
+
+         ✅ IR_11277.jpg
+
+
+   📂 paciente 17
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11294.jpg
+
+         ✅ IR_11296.jpg
+
+         ✅ IR_11297.jpg
+
+         ✅ IR_11298.jpg
+
+         ✅ IR_11299.jpg
+
+         ✅ IR_11300.jpg
+
+         ✅ IR_11301.jpg
+
+
+   📂 paciente 18
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11311.jpg
+
+         ✅ IR_11313.jpg
+
+         ✅ IR_11314.jpg
+
+         ✅ IR_11315.jpg
+
+         ✅ IR_11316.jpg
+
+         ✅ IR_11317.jpg
+
+         ✅ IR_11318.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11329.jpg
+
+         ✅ IR_11330.jpg
+
+         ✅ IR_11331.jpg
+
+         ✅ IR_11332.jpg
+
+         ✅ IR_11333.jpg
+
+         ✅ IR_11334.jpg
+
+
+   📂 paciente 19
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11319.jpg
+
+         ✅ IR_11321.jpg
+
+         ✅ IR_11322.jpg
+
+         ✅ IR_11323.jpg
+
+         ✅ IR_11324.jpg
+
+         ✅ IR_11325.jpg
+
+         ✅ IR_11326.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11367.jpg
+
+         ✅ IR_11369.jpg
+
+         ✅ IR_11371.jpg
+
+         ✅ IR_11372.jpg
+
+         ✅ IR_11373.jpg
+
+         ✅ IR_11374.jpg
+
+         ✅ IR_11375.jpg
+
+
+   📂 paciente 2
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11104.jpg
+
+         ✅ IR_11106.jpg
+
+         ✅ IR_11108.jpg
+
+         ✅ IR_11110.jpg
+
+         ✅ IR_11112.jpg
+
+         ✅ IR_11114.jpg
+
+         ✅ IR_11118.jpg
+
+
+   📂 paciente 20
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11335.jpg
+
+         ✅ IR_11337.jpg
+
+         ✅ IR_11338.jpg
+
+         ✅ IR_11339.jpg
+
+         ✅ IR_11340.jpg
+
+         ✅ IR_11341.jpg
+
+         ✅ IR_11342.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11377.jpg
+
+         ✅ IR_11379.jpg
+
+         ✅ IR_11380.jpg
+
+         ✅ IR_11381.jpg
+
+         ✅ IR_11382.jpg
+
+         ✅ IR_11383.jpg
+
+         ✅ IR_11384.jpg
+
+
+   📂 paciente 21
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11343.jpg
+
+         ✅ IR_11345.jpg
+
+         ✅ IR_11346.jpg
+
+         ✅ IR_11347.jpg
+
+         ✅ IR_11348.jpg
+
+         ✅ IR_11349.jpg
+
+         ✅ IR_11350.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11385.jpg
+
+         ✅ IR_11387.jpg
+
+         ✅ IR_11388.jpg
+
+         ✅ IR_11389.jpg
+
+         ✅ IR_11390.jpg
+
+         ✅ IR_11391.jpg
+
+         ✅ IR_11392.jpg
+
+
+   📂 paciente 22
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11351.jpg
+
+         ✅ IR_11353.jpg
+
+         ✅ IR_11354.jpg
+
+         ✅ IR_11355.jpg
+
+         ✅ IR_11356.jpg
+
+         ✅ IR_11357.jpg
+
+         ✅ IR_11358.jpg
+
+
+   📂 paciente 23
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11359.jpg
+
+         ✅ IR_11361.jpg
+
+         ✅ IR_11362.jpg
+
+         ✅ IR_11363.jpg
+
+         ✅ IR_11364.jpg
+
+         ✅ IR_11365.jpg
+
+         ✅ IR_11366.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11393.jpg
+
+         ✅ IR_11395.jpg
+
+         ✅ IR_11396.jpg
+
+         ✅ IR_11397.jpg
+
+         ✅ IR_11398.jpg
+
+         ✅ IR_11399.jpg
+
+         ✅ IR_11400.jpg
+
+
+   📂 paciente 24
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11401.jpg
+
+         ✅ IR_11403.jpg
+
+         ✅ IR_11404.jpg
+
+         ✅ IR_11405.jpg
+
+         ✅ IR_11406.jpg
+
+         ✅ IR_11407.jpg
+
+         ✅ IR_11408.jpg
+
+
+   📂 paciente 25
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11409.jpg
+
+         ✅ IR_11411.jpg
+
+         ✅ IR_11412.jpg
+
+         ✅ IR_11413.jpg
+
+         ✅ IR_11414.jpg
+
+         ✅ IR_11415.jpg
+
+         ✅ IR_11416.jpg
+
+
+   📂 paciente 26
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11417.jpg
+
+         ✅ IR_11419.jpg
+
+         ✅ IR_11420.jpg
+
+         ✅ IR_11421.jpg
+
+         ✅ IR_11422.jpg
+
+         ✅ IR_11423.jpg
+
+         ✅ IR_11424.jpg
+
+         ✅ IR_11425.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11434.jpg
+
+         ✅ IR_11436.jpg
+
+         ✅ IR_11437.jpg
+
+         ✅ IR_11438.jpg
+
+         ✅ IR_11439.jpg
+
+         ✅ IR_11440.jpg
+
+         ✅ IR_11441.jpg
+
+         ✅ IR_11442.jpg
+
+
+   📂 paciente 27
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11426.jpg
+
+         ✅ IR_11428.jpg
+
+         ✅ IR_11429.jpg
+
+         ✅ IR_11430.jpg
+
+         ✅ IR_11431.jpg
+
+         ✅ IR_11432.jpg
+
+         ✅ IR_11433.jpg
+
+
+   📂 paciente 28
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11443.jpg
+
+         ✅ IR_11445.jpg
+
+         ✅ IR_11446.jpg
+
+         ✅ IR_11447.jpg
+
+         ✅ IR_11448.jpg
+
+         ✅ IR_11449.jpg
+
+         ✅ IR_11450.jpg
+
+
+   📂 paciente 29
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11451.jpg
+
+         ✅ IR_11453.jpg
+
+         ✅ IR_11454.jpg
+
+         ✅ IR_11455.jpg
+
+         ✅ IR_11456.jpg
+
+         ✅ IR_11457.jpg
+
+         ✅ IR_11458.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11484.jpg
+
+         ✅ IR_11486.jpg
+
+         ✅ IR_11487.jpg
+
+         ✅ IR_11488.jpg
+
+         ✅ IR_11489.jpg
+
+         ✅ IR_11490.jpg
+
+         ✅ IR_11491.jpg
+
+
+   📂 paciente 3
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11121.jpg
+
+         ✅ IR_11122.jpg
+
+         ✅ IR_11123.jpg
+
+         ✅ IR_11125.jpg
+
+         ✅ IR_11126.jpg
+
+         ✅ IR_11127.jpg
+
+
+   📂 paciente 30
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11459.jpg
+
+         ✅ IR_11461.jpg
+
+         ✅ IR_11462.jpg
+
+         ✅ IR_11463.jpg
+
+         ✅ IR_11464.jpg
+
+         ✅ IR_11465.jpg
+
+         ✅ IR_11466.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11476.jpg
+
+         ✅ IR_11478.jpg
+
+         ✅ IR_11479.jpg
+
+         ✅ IR_11480.jpg
+
+         ✅ IR_11481.jpg
+
+         ✅ IR_11482.jpg
+
+         ✅ IR_11483.jpg
+
+
+   📂 paciente 31
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11468.jpg
+
+         ✅ IR_11470.jpg
+
+         ✅ IR_11471.jpg
+
+         ✅ IR_11472.jpg
+
+         ✅ IR_11473.jpg
+
+         ✅ IR_11474.jpg
+
+         ✅ IR_11475.jpg
+
+
+   📂 paciente 32
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11494.jpg
+
+         ✅ IR_11495.jpg
+
+         ✅ IR_11496.jpg
+
+         ✅ IR_11497.jpg
+
+         ✅ IR_11498.jpg
+
+         ✅ IR_11499.jpg
+
+
+   📂 paciente 33
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11500.jpg
+
+         ✅ IR_11502.jpg
+
+         ✅ IR_11503.jpg
+
+         ✅ IR_11504.jpg
+
+         ✅ IR_11505.jpg
+
+         ✅ IR_11506.jpg
+
+         ✅ IR_11507.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11525.jpg
+
+         ✅ IR_11527.jpg
+
+         ✅ IR_11528.jpg
+
+         ✅ IR_11529.jpg
+
+         ✅ IR_11530.jpg
+
+         ✅ IR_11531.jpg
+
+         ✅ IR_11532.jpg
+
+
+   📂 paciente 34
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11508.jpg
+
+         ✅ IR_11510.jpg
+
+         ✅ IR_11511.jpg
+
+         ✅ IR_11512.jpg
+
+         ✅ IR_11513.jpg
+
+         ✅ IR_11514.jpg
+
+         ✅ IR_11515.jpg
+
+
+   📂 paciente 35
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11516.jpg
+
+         ✅ IR_11518.jpg
+
+         ✅ IR_11519.jpg
+
+         ✅ IR_11521.jpg
+
+         ✅ IR_11522.jpg
+
+         ✅ IR_11523.jpg
+
+         ✅ IR_11524.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11549.jpg
+
+         ✅ IR_11551.jpg
+
+         ✅ IR_11552.jpg
+
+         ✅ IR_11553.jpg
+
+         ✅ IR_11554.jpg
+
+         ✅ IR_11555.jpg
+
+         ✅ IR_11556.jpg
+
+
+   📂 paciente 36
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11533.jpg
+
+         ✅ IR_11535.jpg
+
+         ✅ IR_11536.jpg
+
+         ✅ IR_11537.jpg
+
+         ✅ IR_11538.jpg
+
+         ✅ IR_11539.jpg
+
+         ✅ IR_11540.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11573.jpg
+
+         ✅ IR_11575.jpg
+
+         ✅ IR_11576.jpg
+
+         ✅ IR_11577.jpg
+
+         ✅ IR_11578.jpg
+
+         ✅ IR_11579.jpg
+
+         ✅ IR_11580.jpg
+
+
+   📂 paciente 37
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11541.jpg
+
+         ✅ IR_11543.jpg
+
+         ✅ IR_11544.jpg
+
+         ✅ IR_11545.jpg
+
+         ✅ IR_11546.jpg
+
+         ✅ IR_11547.jpg
+
+         ✅ IR_11548.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11589.jpg
+
+         ✅ IR_11591.jpg
+
+         ✅ IR_11592.jpg
+
+         ✅ IR_11593.jpg
+
+         ✅ IR_11594.jpg
+
+         ✅ IR_11595.jpg
+
+         ✅ IR_11596.jpg
+
+
+   📂 paciente 38
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11557.jpg
+
+         ✅ IR_11559.jpg
+
+         ✅ IR_11560.jpg
+
+         ✅ IR_11561.jpg
+
+         ✅ IR_11562.jpg
+
+         ✅ IR_11563.jpg
+
+         ✅ IR_11564.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11581.jpg
+
+         ✅ IR_11583.jpg
+
+         ✅ IR_11584.jpg
+
+         ✅ IR_11585.jpg
+
+         ✅ IR_11586.jpg
+
+         ✅ IR_11587.jpg
+
+         ✅ IR_11588.jpg
+
+
+   📂 paciente 39
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11565.jpg
+
+         ✅ IR_11567.jpg
+
+         ✅ IR_11568.jpg
+
+         ✅ IR_11569.jpg
+
+         ✅ IR_11570.jpg
+
+         ✅ IR_11571.jpg
+
+         ✅ IR_11572.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11597.jpg
+
+         ✅ IR_11599.jpg
+
+         ✅ IR_11600.jpg
+
+         ✅ IR_11601.jpg
+
+         ✅ IR_11602.jpg
+
+         ✅ IR_11603.jpg
+
+         ✅ IR_11604.jpg
+
+
+   📂 paciente 4
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11128.jpg
+
+         ✅ IR_11130.jpg
+
+         ✅ IR_11131.jpg
+
+         ✅ IR_11132.jpg
+
+         ✅ IR_11133.jpg
+
+         ✅ IR_11134.jpg
+
+         ✅ IR_11135.jpg
+
+
+   📂 paciente 5
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11136.jpg
+
+         ✅ IR_11137.jpg
+
+         ✅ IR_11138.jpg
+
+         ✅ IR_11140.jpg
+
+         ✅ IR_11141.jpg
+
+         ✅ IR_11142.jpg
+
+         ✅ IR_11143.jpg
+
+
+   📂 paciente 6
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11155.jpg
+
+         ✅ IR_11157.jpg
+
+         ✅ IR_11158.jpg
+
+         ✅ IR_11159.jpg
+
+         ✅ IR_11160.jpg
+
+         ✅ IR_11161.jpg
+
+         ✅ IR_11162 (1).jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11187.jpg
+
+         ✅ IR_11189.jpg
+
+         ✅ IR_11190.jpg
+
+         ✅ IR_11191.jpg
+
+         ✅ IR_11192.jpg
+
+         ✅ IR_11193.jpg
+
+         ✅ IR_11194 (1).jpg
+
+
+   📂 paciente 7
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11163.jpg
+
+         ✅ IR_11165.jpg
+
+         ✅ IR_11166.jpg
+
+         ✅ IR_11167.jpg
+
+         ✅ IR_11168.jpg
+
+         ✅ IR_11169.jpg
+
+         ✅ IR_11170.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11203.jpg
+
+         ✅ IR_11205.jpg
+
+         ✅ IR_11206.jpg
+
+         ✅ IR_11207.jpg
+
+         ✅ IR_11208.jpg
+
+         ✅ IR_11209.jpg
+
+         ✅ IR_11210.jpg
+
+
+   📂 paciente 8
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11171.jpg
+
+         ✅ IR_11173.jpg
+
+         ✅ IR_11174.jpg
+
+         ✅ IR_11175.jpg
+
+         ✅ IR_11176.jpg
+
+         ✅ IR_11177.jpg
+
+         ✅ IR_11178.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11211.jpg
+
+         ✅ IR_11213.jpg
+
+         ✅ IR_11214.jpg
+
+         ✅ IR_11215.jpg
+
+         ✅ IR_11216.jpg
+
+         ✅ IR_11217.jpg
+
+         ✅ IR_11218 (1).jpg
+
+
+   📂 paciente 9
+
+
+      📂 antes de dilatar
+
+         ✅ IR_11179.jpg
+
+         ✅ IR_11181.jpg
+
+         ✅ IR_11182.jpg
+
+         ✅ IR_11183.jpg
+
+         ✅ IR_11184.jpg
+
+         ✅ IR_11185.jpg
+
+         ✅ IR_11186.jpg
+
+
+      📂 despues de dilatar
+
+         ✅ IR_11219.jpg
+
+         ✅ IR_11221.jpg
+
+         ✅ IR_11222.jpg
+
+         ✅ IR_11223.jpg
+
+         ✅ IR_11224.jpg
+
+         ✅ IR_11225.jpg
+
+         ✅ IR_11226.jpg
+
+ 
